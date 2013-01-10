@@ -38,6 +38,7 @@ header {
 
 header h1 {
 	font-size: 36px;
+
 }
 nav ul {
 	list-style:none;
@@ -54,6 +55,12 @@ header a:visited {color:#fff;}
 header a:hover {color:#fff;}
 header a:focus {color:#fff;}
 header a:active {color:#fff;}
+
+h1 {
+	font-family: 'Marcellus',serif;
+	color: teal;
+	text-transform: lowercase;
+}
 
 table {
 	width: 100%;
@@ -77,16 +84,16 @@ tbody tr:nth-child(even) {
 }
 
 a:link {
-		color: #38c;
-		text-decoration: none;
+	color: #38c;
+	text-decoration: none;
 }
 
 a:visited {color: #A0522D;}
 
 a:hover, 
-	a:focus {
+a:focus {
 	color: #000080;
 	font-weight:bold;
 	}
 
-	a:active {color: #800080;}
+a:active {color: #800080;}
