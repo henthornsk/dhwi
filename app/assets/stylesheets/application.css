@@ -76,3 +76,17 @@ tbody tr:nth-child(even) {
 	background-color: #aaa;
 }
 
+a:link {
+		color: #38c;
+		text-decoration: none;
+}
+
+a:visited {color: #A0522D;}
+
+a:hover, 
+	a:focus {
+	color: #000080;
+	font-weight:bold;
+	}
+
+	a:active {color: #800080;}
