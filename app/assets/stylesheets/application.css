@@ -31,6 +31,9 @@ header {
 	color: #fff;
 	padding: 20px;
 	border-bottom: 3px solid #777;
+	background-image: url(AUcampus.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
 }
 
 header h1 {
