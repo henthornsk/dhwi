@@ -55,6 +55,10 @@ header a:hover {color:#fff;}
 header a:focus {color:#fff;}
 header a:active {color:#fff;}
 
+h1 {
+	font-size: 25px;
+}
+
 table {
 	width: 100%;
 }
